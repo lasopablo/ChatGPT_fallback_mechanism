@@ -1,18 +1,13 @@
 {
-    "version": 2,
-    "builds": [
-      {
-        "src": "pages/**/*.ts",
-        "use": "@vercel/node"
-      },
-      {
-        "src": "public/**/*",
-        "use": "@vercel/static"
-      }
-    ],
-    "env": {
-      "OPENAI_API_KEY": "@openai_api_key",
-      "GEMINI_API_KEY": "@gemini_api_key"
+  "version": 2,
+  "builds": [
+    {
+      "src": "pages/**/*.ts",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "public/**/*",
+      "use": "@vercel/static"
     }
-  }
-  
+  ]
+}
