@@ -1,6 +1,11 @@
 # Markprompt Backend Application
 
-Welcome to the Markprompt Backend Application! This project is a full-stack application designed to showcase my skills in creating a robust backend for a chat application with fallback mechanisms for AI models. The application uses OpenAI and Gemini by Google for generating responses and is wrapped in a Docker container for easy deployment.
+Welcome to the Markprompt Backend Application! This project is a full-stack application with a robust backend for a chat application with fallback mechanisms for AI models. The application uses OpenAI and Gemini by Google for generating responses and is wrapped in a Docker container for easy deployment.
+
+
+> :warning: **Installation Guide Available**: A video installation guide is available to help you set up. Watch it here: [Installation Video Guide](https://drive.google.com/file/d/1RXoVHqsG3SZUStbD9F-CwKYsRP7e4lXr/view?usp=sharing)
+
+
 
 ## Features
 
@@ -63,8 +68,6 @@ Create a .env.local file in the root directory and add your API keys:
 OPENAI_API_KEY=your_openai_api_key
 GEMINI_API_KEY=your_gemini_api_key
 ```
-OPENAI_API_KEY=your_openai_api_key
-GEMINI_API_KEY=your_gemini_api_key
 
 4. **Run the Application:**
 
@@ -80,11 +83,15 @@ Open your browser and navigate to ```http://localhost:3000```.
 ## Usage
 1. **Start a New Chat:**
 
-Click on "New Chat" to start a new conversation. You will be prompted to enter your name and describe your problem.
+Click on "New Chat" to start a new conversation. You will be prompted to enter your name and describe your problem:
+
+![GUI_start](imgs/GUI_start.png)
 
 2. **Interact with the AI:**
 
-Type your messages in the input box and click "Send". The AI will respond as a customer support agent, providing helpful information and troubleshooting steps.
+Type your messages in the input box and click "Send". The AI will respond as a customer support agent, providing helpful information and troubleshooting steps:
+
+![GUI_chat](imgs/GUI_chat.png)
 
 3. **View AI Status:**
 
