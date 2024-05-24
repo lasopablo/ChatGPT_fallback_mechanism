@@ -3,7 +3,7 @@
 Welcome to the Markprompt Backend Application! This project is a full-stack application with a robust backend for a chat application with fallback mechanisms for AI models. The application uses OpenAI and Gemini by Google for generating responses and is wrapped in a Docker container for easy deployment.
 
 
-> ✔️: **Demo video available**: A demo video and installation guide is available to help you set up and use. Watch it here: [Installation Video Guide](https://youtu.be/Oeo9TmnhqRU)
+> ✔️: **Demo video available**: A demo video and installation guide is available to help you set up and use. Watch it here: [Installation Video Guide](https://youtu.be/RBxX8LdbsUI)
 
 
 
@@ -29,7 +29,7 @@ Welcome to the Markprompt Backend Application! This project is a full-stack appl
 
 ### Running Locally with Docker
 
-> :warning: **Installation Guide Available**: A video installation guide is available to help you set up. Watch it here: [Installation Video Guide](https://youtu.be/Oeo9TmnhqRU)
+> :warning: **Installation Guide Available**: A video installation guide is available to help you set up. Watch it here: [Installation Video Guide](https://youtu.be/RBxX8LdbsUI)
 
 1. **Pull the Docker Image:**
 
