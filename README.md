@@ -29,7 +29,7 @@ Welcome to the Markprompt Backend Application! This project is a full-stack appl
 
 ### Running Locally with Docker
 
-> :warning: **Installation Guide Available**: A video installation guide is available to help you set up. Watch it here: [Installation Video Guide](https://drive.google.com/file/d/1RXoVHqsG3SZUStbD9F-CwKYsRP7e4lXr/view?usp=sharing)
+> :warning: **Installation Guide Available**: A video installation guide is available to help you set up. Watch it here: [Installation Video Guide](https://youtu.be/Oeo9TmnhqRU)
 
 1. **Pull the Docker Image:**
 
